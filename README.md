@@ -8,7 +8,7 @@
   <img alt="node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=openjdk&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=apachemaven&logoColor=white">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
 </p>
 
@@ -16,15 +16,14 @@
 
   <p>
     <img alt="Flask" src="https://img.shields.io/badge/Flask-white.svg?logo=flask&logoColor=black">
-    <img alt="Express" src="https://img.shields.io/badge/Express-ffffff.svg?logo=express&logoColor=black">
-    <img alt="tailwindcss" src="https://img.shields.io/badge/React-blue.svg?logo=react&logoColor=black">
-    <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-671c9d.svg?logo=bootstrap&logoColor=white">
-    <img alt="tailwind" src="https://img.shields.io/badge/Tailwind-white.svg?logo=tailwindcss&logoColor=blue">
+    <img alt="Express" src="https://img.shields.io/badge/Express-white.svg?logo=express&logoColor=black">
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black">
+    <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+    <img alt="tailwind" src="https://img.shields.io/badge/Tailwind-white.svg?logo=tailwindcss&logoColor=06B6D4">
   </p>
-  #671c9dff
-  
-  > Databases
-  
+
+> Databases
+
   <p>
     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
     <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-316192.svg?logo=mysql&logoColor=white">
