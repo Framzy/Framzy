@@ -18,6 +18,7 @@
   <p>
     <img alt="Flask" src="https://img.shields.io/badge/Flask-white.svg?logo=flask&logoColor=black">
     <img alt="Express" src="https://img.shields.io/badge/Express-ffffff.svg?logo=express&logoColor=black">
+    <img alt="React" src="https://img.shields.io/badge/React-ffffff.svg?logo=react&logoColor=black">
   </p>
   
   > Databases
